@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/sourcejs/sourcejs-spec-dependencies",
   "dependencies": {
-    "deep-extend": "^0.3.2"
+    "deep-extend": "^0.4.1"
   }
 }
